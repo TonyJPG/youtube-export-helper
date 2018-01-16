@@ -11,7 +11,7 @@ Based on this guide: https://www.iliketomakestuff.com/heres-how-to-export-your-y
 
 3. Open the .xml file and copy the content (Ctrl+A -> Ctrl+C).
 
-4. Paste it in the Top-Left corner of this JSFiddle: https://jsfiddle.net/c18L8gd9/2/
+4. Paste it in the Top-Left corner of this JSFiddle: https://jsfiddle.net/c18L8gd9/3/
 
 5. Click the "Run" button on the Top-Left of that page. Now you'll have a list with ALL your subscriptions in the Bottom-Right corner.
 
